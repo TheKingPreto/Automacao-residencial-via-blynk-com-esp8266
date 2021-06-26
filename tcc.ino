@@ -63,4 +63,3 @@ void loop() {
   dimmer.EnviaNivel(valor_slider2, 1);
 
 }
-// falei pra ti q era izi sksjksjskj
